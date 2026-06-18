@@ -69,8 +69,8 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/Vinothprabakar">
-    <img src="https://img.shields.io/badge/LinkedIn-vinoth--prabakar-0077B5?style=for-the-badge&logo=linkedin"/>
+  <a href="www.linkedin.com/in/vinoth-prabakar">
+    <img src="https://img.shields.io/badge/LinkedIn-vinoth-prabakar-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:prabakar.vinoth@gmail.com">
     <img src="https://img.shields.io/badge/Email-prabakar.vinoth%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
