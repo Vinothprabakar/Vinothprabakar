@@ -13,7 +13,7 @@
 ## 🧑‍💻 About Me
 
 - 🎯 Full Stack Developer with expertise in the **MERN Stack**
-- 🏫 Currently **Software Trainer @ IUNOWARE PVT LTD**
+- 🏫 Currently **Software Trainer @ VDS TECHNOLOGIES**
 - 🌱 Passionate about teaching Full Stack JavaScript & Python
 - 🛠️ Built real-world projects: e-commerce, music apps, newsfeeds
 - 📍 Based in **Madurai, India** 🇮🇳
