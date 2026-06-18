@@ -50,7 +50,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinoth-prabakar&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinothprabakar&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
