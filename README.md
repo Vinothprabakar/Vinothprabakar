@@ -58,7 +58,8 @@
 ## 💼 Work Experience
 
 ```
-🟢 Software Trainer     → IUNOWARE PVT LTD         Apr 2025 – Present
+🟢 Software Trainer     → VDS TECHNOLOGIES         Feb 2026 – Present
+🟢 Software Trainer     → IUNOWARE PVT LTD         Apr 2025 – Dec 2025
 🟡 Trainer              → ELYSIUM GROUP             Apr 2024 – Mar 2025
 🔵 Full Stack Graduate  → Crio.do, Bangalore         Jan 2024
 ```
@@ -68,7 +69,7 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/vinoth-prabakar">
+  <a href="https://linkedin.com/in/Vinothprabakar">
     <img src="https://img.shields.io/badge/LinkedIn-vinoth--prabakar-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:prabakar.vinoth@gmail.com">
